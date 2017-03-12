@@ -1,0 +1,4 @@
+D:\Jatin_Work\DayByDay\26032014\InsertSqlServerWCF\InsertSqlServerWCF\bin\InsertSqlServerWCF.dll
+D:\Jatin_Work\DayByDay\26032014\InsertSqlServerWCF\InsertSqlServerWCF\bin\InsertSqlServerWCF.pdb
+D:\Jatin_Work\DayByDay\26032014\InsertSqlServerWCF\InsertSqlServerWCF\obj\Debug\InsertSqlServerWCF.dll
+D:\Jatin_Work\DayByDay\26032014\InsertSqlServerWCF\InsertSqlServerWCF\obj\Debug\InsertSqlServerWCF.pdb
